@@ -1,5 +1,4 @@
 # hello-world
-First repository
 
 I am a Network Engineer that is trying to learn more about automation and keep up with the everchanging world of information technology. I have a Bachelor's degree from Western Kentucky University in Computer Information Technology, am a CCNA, and have been in the industry for almost five years now.
 
